@@ -12,7 +12,7 @@ Driver Drowsiness Detection System is a project built using Dlib, OpenCV & Pytho
 | `Open_CV` | `library` | Used in machine learning and detection work |
 | `Python` | `language` |  An interpreted high-level general-purpose programming language. |
 
-## Code Explanation
+## Explanation
 
 - Dlib - Library generally used in Machine Learning Projects, specifically image processing
 
